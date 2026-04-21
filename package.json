@@ -1,0 +1,13 @@
+{
+  "name": "@iwyfaf-ai-skills/vue",
+  "version": "1.0.0",
+  "description": "AI skills for Vue",
+  "author": "iWatchYouFromAfar",
+  "skills": {
+    "vue": {
+      "description": "Vue 3 Composition API expert",
+      "path": "./vue/skill.md",
+      "version": "2026.1.31"
+    }
+  }
+}
