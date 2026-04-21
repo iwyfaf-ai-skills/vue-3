@@ -6,7 +6,7 @@
   "skills": {
     "vue": {
       "description": "Vue 3 Composition API expert",
-      "path": "./vue/skill.md",
+      "path": "./vue/SKILL.md",
       "version": "2026.1.31"
     }
   }
