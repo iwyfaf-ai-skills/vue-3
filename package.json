@@ -8,6 +8,11 @@
       "description": "Vue 3 Composition API expert",
       "path": "./vue/SKILL.md",
       "version": "2026.1.31"
+    },
+    "vue-best-practices": {
+      "description": "Vue 3 best practices skills.",
+      "path": "./vue-best-practices/SKILL.md",
+      "version": "2026.4.22"
     }
   }
 }
