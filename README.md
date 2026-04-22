@@ -29,3 +29,29 @@ hard update:
 ```shell
 npx skills add iwyfaf-ai-skills/vue-3 --skill vue
 ```
+
+### [vue-best-practices](vue-best-practices)
+
+Vue 3 best practices skills.
+
+Sources:
+
+- [Vue AI](https://github.com/vuejs-ai/skills/tree/main/skills/vue-best-practices)
+
+Installation:
+
+```shell
+npx skills add iwyfaf-ai-skills/vue-3 --skill vue-best-practices
+```
+
+or update:
+
+```shell
+npx skills update vue-best-practices
+```
+
+hard update:
+
+```shell
+npx skills add iwyfaf-ai-skills/vue-3 --skill vue-best-practices
+```
