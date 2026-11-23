@@ -56,24 +56,24 @@ hard update:
 npx skills add iwyfaf-ai-skills/vue-3 --skill vue-best-practices
 ```
 
-### [Vue template formatting](Vue template formatting)
+### [vue-template-formatting](vue-template-formatting)
 
 Vue 3 template formatting skills.
 
 Installation:
 
 ```shell
-npx skills add iwyfaf-ai-skills/vue-3 --skill [vue-template-formatting](vue-template-formatting)vue-best-practices
+npx skills add iwyfaf-ai-skills/vue-3 --skill vue-template-formatting
 ```
 
 or update:
 
 ```shell
-npx skills update [vue-template-formatting](vue-template-formatting)vue-best-practices
+npx skills update vue-template-formatting
 ```
 
 hard update:
 
 ```shell
-npx skills add iwyfaf-ai-skills/vue-3 --skill [vue-template-formatting](vue-template-formatting)vue-best-practices
+npx skills add iwyfaf-ai-skills/vue-3 --skill vue-template-formatting
 ```
