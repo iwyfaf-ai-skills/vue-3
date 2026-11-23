@@ -13,6 +13,11 @@
       "description": "Vue 3 best practices skills.",
       "path": "./vue-best-practices/SKILL.md",
       "version": "2026.4.22"
+    },
+    "vue-template-formatting": {
+      "description": "Vue 3 template formatting skills.",
+      "path": "./vue-template-formatting/SKILL.md",
+      "version": "2026.11.23"
     }
   }
 }
